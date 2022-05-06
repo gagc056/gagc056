@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">
-Full Stack developer
+Software developer
 </h2>
  
 <p align='center'>
