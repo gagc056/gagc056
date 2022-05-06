@@ -9,7 +9,7 @@ Software developer
 </h2>
  
 <p align='center'>
-I am software developer I am passionate about crafting applications for the web and learning about new technologies like artificiall intelligence, I am currently looking for opportunities.
+I am freelance software developer I am passionate about crafting applications for the web and learning about new technologies like artificiall intelligence, I am currently looking for opportunities.
  </p>
 
 <h2 align='center'>Technologies and Tools</h2>
