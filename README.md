@@ -20,6 +20,8 @@ I am software developer I am passionate about crafting applications for the web 
 <img height="40" src="https://img.icons8.com/color/96/000000/nodejs.png"/>
 <img height="40" src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>
 <img height="40" src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
+<img height="40" src="https://img.icons8.com/color/96/000000/python.png"/>
+<img height="40" src="https://img.icons8.com/color/96/000000/keras.png"/>
 </p>
 
 
